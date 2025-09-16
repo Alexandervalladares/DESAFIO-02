@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f5f8ff" />
+  <text x="200" y="50" text-anchor="middle" font-size="20" font-family="Arial" fill="#003F77">VentaExpress Tech</text>
+  <rect x="100" y="90" width="200" height="40" rx="8" fill="#0056A6" />
+  <text x="200" y="115" text-anchor="middle" font-size="16" font-family="Arial" fill="#ffffff">Productos</text>
+  <rect x="100" y="150" width="200" height="40" rx="8" fill="#0056A6" />
+  <text x="200" y="175" text-anchor="middle" font-size="16" font-family="Arial" fill="#ffffff">Clientes</text>
+  <rect x="100" y="210" width="200" height="40" rx="8" fill="#0056A6" />
+  <text x="200" y="235" text-anchor="middle" font-size="16" font-family="Arial" fill="#ffffff">Ventas</text>
+  <text x="200" y="280" text-anchor="middle" font-size="12" font-family="Arial" fill="#333333">Mockup conceptual del menú principal</text>
+</svg>

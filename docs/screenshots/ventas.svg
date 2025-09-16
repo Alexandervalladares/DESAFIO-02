@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440" height="340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="440" height="340" fill="#ffffff" />
+  <text x="220" y="30" text-anchor="middle" font-size="20" font-family="Arial" fill="#003F77">Nueva venta + historial</text>
+  <rect x="40" y="60" width="360" height="110" rx="12" fill="#f1f8e9" stroke="#558b2f" stroke-width="2" />
+  <text x="60" y="90" font-size="14" font-family="Arial" fill="#33691e">Cliente seleccionado: María López</text>
+  <text x="60" y="115" font-size="12" font-family="Arial" fill="#33691e">Productos:</text>
+  <text x="80" y="135" font-size="12" font-family="Arial" fill="#33691e">• Laptop Gamer 15 x1  →  $999.99</text>
+  <text x="80" y="155" font-size="12" font-family="Arial" fill="#33691e">• Mouse Inalámbrico x2  →  $39.98</text>
+  <text x="60" y="178" font-size="14" font-family="Arial" fill="#1b5e20">Total: $1,039.97</text>
+  <rect x="120" y="190" width="200" height="44" rx="10" fill="#0056A6" />
+  <text x="220" y="218" text-anchor="middle" font-size="16" font-family="Arial" fill="#ffffff">Guardar venta</text>
+  <rect x="40" y="250" width="360" height="70" rx="10" fill="#e3f2fd" stroke="#1e88e5" stroke-width="2" />
+  <text x="60" y="275" font-size="12" font-family="Arial" fill="#1565c0">03/05/2024 14:32 • María López • Total $1,039.97</text>
+  <text x="60" y="295" font-size="12" font-family="Arial" fill="#1565c0">Productos: Laptop Gamer 15 x1, Mouse Inalámbrico x2</text>
+  <text x="220" y="325" text-anchor="middle" font-size="12" font-family="Arial" fill="#666666">El stock de productos se actualiza automáticamente tras guardar</text>
+</svg>
